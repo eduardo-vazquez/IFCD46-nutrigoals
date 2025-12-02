@@ -113,6 +113,23 @@ TABLA REGISTRO_ACTIVIDADES:
 - CALORIAS_QUEMADAS
 
 
+APIs para la base de datos de alimentos:
+
+Open Food Facts 
+API	Base de datos colaborativa y abierta con millones de productos alimenticios. 
+Permite recuperar ingredientes, valores nutricionales (calorías, macros, alérgenos…) usando por ejemplo el código de barras. 
+
+FoodData Central API (del USDA)	
+Fuente pública de composición de alimentos: datos de nutrientes de muchos alimentos genéricos y procesados. 
+Datos en dominio público (CC0), lo que facilita su uso libre.
+
+CalorieNinjas API	
+API gratuita con datos nutricionales (calorías, macros) de muchos alimentos y recetas; útil si buscas algo sencillo y rápido de integrar. 
+calorieninjas.com
+
+Recipe API (API?Ninjas)	
+API para acceder a un catálogo amplio de recetas, lo que puede servir como base para el módulo de “elaboración de recetas” de tu proyecto. 
+api-ninjas.com
 
 
 

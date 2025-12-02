@@ -12,7 +12,7 @@ NutriGoal es una web para el seguimiento de habitos alimenticios y actividades f
 - [ ] Autenticacion mediante OAuth 2.0 y OpenID Connect (OIDC)
 
 ### FUNCIONALIDADES:
-- [ ] El usuario puede crear una cuenta e iniciar sesion.
+- [ ] El usuario puede crear una cuenta e iniciar sesion. 
 - [ ] Poder cargar las necesidades caloricas y de macronutrientes diarias segun los objetivos del usuario.
 - [ ] El usuario podra definir sus necesidades nutricionales en la aplicacion, utilizando formulas estandarizadas, segun su edad, sexo, peso, altura y nivel de actividad fisica.
 - [ ] El usuario podra registrar sus comidas diarias, especificando los alimentos consumidos y sus cantidades. Esto se podra hacer mediante una base de datos de alimentos integrada en la aplicacion (https://world.openfoodfacts.org/data).
